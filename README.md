@@ -8,28 +8,28 @@
 
 
 
-#R
+# R
 4-
 5-
 6-
 
 
-#sql
+# sql
 7-
 8-
 9-
 
 
 
-#power bi
+# power bi
 10-
 
 
 
-#excel
+# excel
 11-
 
 
 
-#tableau
+# tableau
 12-
